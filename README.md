@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Álef Ferreira
+# 👨🏻‍💻 Álef Ferreira
 
 **`Data Analyst / Analista de Dados`**
 
