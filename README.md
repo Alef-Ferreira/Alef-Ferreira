@@ -26,6 +26,13 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+</br>
+</br>
+</br>
+
+![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=pers3uz&count=3&unique=true&width=870)
+
+
 [//]: # (## 🤖 Linguagens e Tecnologias
 <br/>
 <img 
