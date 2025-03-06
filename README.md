@@ -6,8 +6,6 @@
 
 **PT-BR**: Transformando dados em decisões estratégicas, unindo análise precisa e visão de negócio.
 
-<br/>
-
 ### 🤖 Linguagens e Tecnologias
 <br/>
 
