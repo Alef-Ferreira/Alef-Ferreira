@@ -6,17 +6,10 @@
 
 **PT-BR**: Transformando dados em decisões estratégicas, unindo análise precisa e visão de negócio.
 
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Contacts | Contatos</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alef.ferreiraa@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/alef-ferreiraa/)
-
-
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
+<br/>
 
 <img 
     align="left" 
@@ -101,6 +94,10 @@
 
 <br/>
 <br/>
+<h3 align="left">Contacts | Contatos</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alef.ferreiraa@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/alef-ferreiraa/)
 
 
 <picture align="center">
@@ -109,3 +106,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
