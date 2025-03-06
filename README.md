@@ -2,9 +2,8 @@
 
 #### **`Data Analyst / Analista de Dados`**
 
-**EN**: Turning data into strategic decisions, combining precise analysis with business insight.
-
-**PT-BR**: Transformando dados em decisões estratégicas, unindo análise precisa e visão de negócio.
+#### Turning data into strategic decisions, combining precise analysis with business insight.
+#### Transformando dados em decisões estratégicas, unindo análise precisa e visão de negócio.
 
 
 ## 💻 Linguagens e Tecnologias
