@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Álef Ferreira
 
-###**`Data Analyst / Analista de Dados`**
+### **`Data Analyst / Analista de Dados`**
 
 **EN**: Turning data into strategic decisions, combining precise analysis with business insight.
 
