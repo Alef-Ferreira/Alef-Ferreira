@@ -5,7 +5,6 @@
 #### Turning data into strategic decisions, combining precise analysis with business insight.
 #### Transformando dados em decisões estratégicas, unindo análise precisa e visão de negócio.
 
-</br>
 
 ## 💻 Linguagens e Tecnologias
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
