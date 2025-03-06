@@ -10,6 +10,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/tableau-000066?style=for-the-badge&logo=tableau&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,87 +33,3 @@
 
 ![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=pers3uz&count=3&unique=true&width=870)
 
-
-[//]: # (## 🤖 Linguagens e Tecnologias
-<br/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/fluency/48/sql.png" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/fluency/48/power-bi-2021.png" 
-/>
-<img 
-    align="left" 
-    alt="Tableau" 
-    title="Tableau"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/tableau-software.png" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML5" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS3" 
-    title="CSS3"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="JS" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-)
