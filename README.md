@@ -31,4 +31,4 @@
 </br>
 </br>
 
-![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=pers3uz&count=3&unique=true&width=650&align="center") <img align="right" width=100 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBiZWdzb3FocmNhY2lnaGdjbzFvZjNic3lnbHZrc21pYWcyd2xtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif">
+![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=pers3uz&count=3&unique=true&width=650&align="center") <img align="right" width=200 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBiZWdzb3FocmNhY2lnaGdjbzFvZjNic3lnbHZrc21pYWcyd2xtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif">
