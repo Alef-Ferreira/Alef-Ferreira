@@ -31,11 +31,4 @@
 </br>
 </br>
 
-![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=pers3uz&count=3&unique=true&width=650&align="center")
-
-</br>
-
-<img align="center" width=1500 src="302789326-c5c7f130-da0b-4c38-b945-2b5d436d15a9.gif">
-
-
-
+![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=pers3uz&count=3&unique=true&width=650&align="center") <img align="right" width=300 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBiZWdzb3FocmNhY2lnaGdjbzFvZjNic3lnbHZrc21pYWcyd2xtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif">
