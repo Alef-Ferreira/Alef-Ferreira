@@ -31,5 +31,9 @@
 </br>
 </br>
 
+<img src="302789326-c5c7f130-da0b-4c38-b945-2b5d436d15a9.gif">
+
+</br>
+
 ![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=pers3uz&count=3&unique=true&width=870)
 
